@@ -1,3 +1,2 @@
 streamlit
 python-dotenv
-sqlite3  # Optional: May already be built into Python
